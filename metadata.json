@@ -1,0 +1,5 @@
+{
+  "name": "Budget Famille PWA",
+  "description": "A mobile-first, responsive family budget application designed for couples. Features real-time dashboarding, expense tracking by user (Commun, Émilie, Cédric), budget visualization, and category management. Built with React, Tailwind, and Recharts.",
+  "requestFramePermissions": []
+}
